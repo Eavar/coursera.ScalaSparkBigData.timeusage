@@ -1,0 +1,278 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$10.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$2.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$3.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$4.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$5$$anonfun$11.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$5$$anonfun$12.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$5$$anonfun$13.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$5.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$6.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$7.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$8.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$9.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite.class
+binary dependencies:
+7 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/.ivy2/cache/junit/junit/jars/junit-4.10.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> /Users/eavar/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+2 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsage$
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageRow
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$10
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$4
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$5
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$5$$anonfun$11
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$5$$anonfun$12
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$5$$anonfun$13
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$6
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$7
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$8
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$9
+used names:
+140 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> $org_scalatest_assert_macro_expr
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> $org_scalatest_assert_macro_left
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> $org_scalatest_assert_macro_right
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> +
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> <byname>
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> <init>
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> <repeated>
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> ===
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> ?0
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> A
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> A1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Any
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> AnyRef
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Array
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> AssertionsHelper
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> B
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> BeforeAndAfterAll
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Bool
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Boolean
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> CanBuildFrom
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Coll
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Column
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> ColumnName
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> DataFrame
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> DataType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Dataset
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Double
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> DoubleType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Equality
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Equalizer
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> FunSuite
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Function1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Int
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> JUnitRunner
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> List
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Long
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> MatchError
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Nothing
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Predef
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Random
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> RichDouble
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Row
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> RunWith
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> SparkConf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> SparkContext
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> SparkSession
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> String
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> StringType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> StructField
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> StructType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> T
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> T0
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> T1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> T2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> T3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Tag
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> That
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> TimeUsage
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> TimeUsageRow
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> TimeUsageSuite
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Tuple2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Tuple3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> Unit
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> _1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> _2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> _3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> apache
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> appName
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> apply
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> asInstanceOf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> assert
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> assertionsHelper
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> binaryMacroBool
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> canBuildFrom
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> classifiedColumns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> columns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> contains
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> convertToEqualizer
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> count
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> dataType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> default
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> dfSchema
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> doubleWrapper
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> fields
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> finalDf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> finalDs
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> first
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> getAs
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> getClass
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> getDouble
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> getName
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> head
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> immutable
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> initDf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> isStopped
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> junit
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> length
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> macroAssert
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> map
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> name
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> ne
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> oC
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> org
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> otherColumns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> package
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> pnC
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> primaryNeeds
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> primaryNeedsColumns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> read
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> round
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> row
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> runner
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> scala
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> scalactic
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> scalatest
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> show
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> size
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> spark
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> sparkContext
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> sql
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> sqlDf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> summaryDf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> summaryDffirst
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> summaryDs
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> test
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> testRow
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> testSchema
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeUsageGrouped
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeUsageGroupedSql
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeUsageGroupedTyped
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeUsageSummary
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeUsageSummaryTyped
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> timeusage
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> toString
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> types
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> unchecked
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> util
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> wC
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> workColumns
+product stamps:
+14 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$1.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$10.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$2.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$3.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$4.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$5$$anonfun$11.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$5$$anonfun$12.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$5$$anonfun$13.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$5.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$6.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$7.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$8.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite$$anonfun$9.class -> lastModified(1533684910000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/test-classes/timeusage/TimeUsageSuite.class -> lastModified(1533684910000)
+source stamps:
+1 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> hash(dac28b1b2519eb62dbeef34885b9d8867811518f)
+binary stamps:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/eavar/.ivy2/cache/junit/junit/jars/junit-4.10.jar -> lastModified(1317323535000)
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/Users/eavar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/Users/eavar/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.6.jar -> lastModified(1452019761000)
+class names:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.String
+/Users/eavar/.ivy2/cache/junit/junit/jars/junit-4.10.jar -> org.junit.runner.RunWith
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.DoubleType$
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkConf
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.SparkSession$
+/Users/eavar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar -> scala.Unit
+/Users/eavar/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.6.jar -> org.scalatest.FunSuite
+internal apis:
+1 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtipUOQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAPCA1cdAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgAL3NU24nQAEmNvbnZlcnRUb0VxdWFsaXplcnVxAH4ACQAAAGhzcQB+AAtzS4KPdAAGYXNzZXJ0c3EAfgALm8ady3QABm5vdGlmeXNxAH4AC23xqDt0ACZsb3dQcmlvcml0eUNvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4AC/1Um810ABBBc3NlcnRpb25zSGVscGVyc3EAfgALdX3AQnQABmNhbmNlbHNxAH4AC0oZ73h0AAR0ZXN0c3EAfgAL8oJf13QAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALRMoNf3QADGV4cGVjdFJlc3VsdHNxAH4AC5w3BUh0AAlpbnRlcmNlcHRzcQB+AAuZrNHQdAAEZmFpbHNxAH4AC2soaTd0AARuYW1lc3EAfgALtn+WOnQAFGFzc2VydERvZXNOb3RDb21waWxlc3EAfgALu4c1cHQAEWV4ZWN1dGUkZGVmYXVsdCQ0c3EAfgALzLlysHQAB2V4ZWN1dGVzcQB+AAuTmmSVdAAEd2FpdHNxAH4AC/z6+xZ0AAt0ZXN0RGF0YUZvcnNxAH4AC05ahfZ0ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALEHeyK3QACXN0eWxlTmFtZXNxAH4ACxmUhX10AA0kYXNJbnN0YW5jZU9mc3EAfgALYr8453QAEWV4ZWN1dGUkZGVmYXVsdCQzc3EAfgALarOjpnQACWNvbmZpZ01hcHNxAH4ACxyGbzh0AAZlcXVhbHNzcQB+AAu+qu/wdAAsY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAugRHhydAAPZGVmYXVsdEVxdWFsaXR5c3EAfgALzJc72XQAImNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnN0cmFpbnRzcQB+AAvo/plodAAEdGFnc3NxAH4ACywVydp0AAxhc0luc3RhbmNlT2ZzcQB+AAsNvGrAdAAFYWxlcnRzcQB+AAuhlPEddAADcnVuc3EAfgALTYezgnQAD0xlZ2FjeUVxdWFsaXplcnNxAH4AC2otbDZ0AAZzY29wZXNzcQB+AAsjKLS+dAAYY29udmVydFRvTGVnYWN5RXF1YWxpemVyc3EAfgALwRQ3rnQACWJlZm9yZUFsbHNxAH4AC2nMpCx0AAxzeW5jaHJvbml6ZWRzcQB+AAuTIRMSdAAOYXNzZXJ0Q29tcGlsZXNzcQB+AAuyMChOdAANJGlzSW5zdGFuY2VPZnNxAH4ACwrBPZ50AAR0cmFwc3EAfgALa9tZN3QAFXRlc3REYXRhRm9yJGRlZmF1bHQkMnNxAH4AC3/5yy50AAxhc3NlcnRSZXN1bHRzcQB+AAsrT53LdAAEdGV4dHNxAH4AC7bg70R0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC6909ON0ABFleGVjdXRlJGRlZmF1bHQkN3NxAH4AC8srLet0ABV0eXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAs4iUIqdAADIT09c3EAfgAL+90i7nQABGluZm9zcQB+AAvsJWjMdAAJbm90aWZ5QWxsc3EAfgAL31zon3QAC3dpdGhGaXh0dXJlc3EAfgALusR01nQAB3J1blRlc3RzcQB+AAukwud1dAAMaXNJbnN0YW5jZU9mc3EAfgAL2y1ev3QACHdpdGhDbHVlc3EAfgALzJC4YXQAEGFzc2VydGlvbnNIZWxwZXJzcQB+AAsJE5VXdAARZXhlY3V0ZSRkZWZhdWx0JDZzcQB+AAvoRSCSdAAPYXNzZXJ0VHlwZUVycm9yc3EAfgALSRR68XQABm1hcmt1cHNxAH4AC0PENB10AAhsZWZ0U2lkZXNxAH4AC6SBdV10AAY8aW5pdD5zcQB+AAtGEm8SdAALbWFjcm9Bc3N1bWVzcQB+AAs67KXcdAAPcnVuTmVzdGVkU3VpdGVzc3EAfgALXwiYTXQABWFwcGx5c3EAfgALaZug13QACUVxdWFsaXplcnNxAH4AC7TxDPF0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAsppnmIdAAEbm90ZXNxAH4ACyKEV+d0AAI9PXNxAH4AC30LJHZ0AAVjbG9uZXNxAH4AC3TX1Lt0AAZleHBlY3RzcQB+AAsb6Y7cdAAMbmVzdGVkU3VpdGVzc3EAfgALZLedy3QABmFzc3VtZXNxAH4ACwnKZPJ0AAYkaW5pdCRzcQB+AAthUiMRdAAgbG93UHJpb3JpdHlUeXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAs/+InpdAAMcmVnaXN0ZXJUZXN0c3EAfgAL4PDaFHQAEWV4ZWN1dGUkZGVmYXVsdCQ1c3EAfgALXxnG9nQAAz09PXNxAH4AC8GiKY90ABhuZXdUZXN0Q2FuY2VsZWRFeGNlcHRpb25zcQB+AAtlXOU7dAAIdG9TdHJpbmdzcQB+AAv9hkvbdAAJdGVzdE5hbWVzc3EAfgALJl1h1nQAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALsl7smnQAAiE9c3EAfgALqz4yfHQAMmludm9rZUJlZm9yZUFsbEFuZEFmdGVyQWxsRXZlbklmTm9UZXN0c0FyZUV4cGVjdGVkc3EAfgALd6wYwnQAF0xlZ2FjeUNoZWNraW5nRXF1YWxpemVyc3EAfgAL00lkknQACGdldENsYXNzc3EAfgAL+9sCA3QAE3JlZ2lzdGVySWdub3JlZFRlc3RzcQB+AAu5AgQ0dAAIdGVzdHNGb3JzcQB+AAuYOR9CdAAIcnVuVGVzdHNzcQB+AAsH8WsedAARcGVuZGluZ1VudGlsRml4ZWRzcQB+AAtzzCrvdAAIYWZ0ZXJBbGxzcQB+AAtf9ZpXdAARZXhwZWN0ZWRUZXN0Q291bnRzcQB+AAvCr2oudAAIcmVydW5uZXJzcQB+AAsXifyldAAiY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29uc3RyYWludHNxAH4AC5eXyJd0AAJuZXNxAH4ACyHl7eZ0ABFDaGVja2luZ0VxdWFsaXplcnNxAH4AC3pP3cN0ACBjb252ZXJ0VG9MZWdhY3lDaGVja2luZ0VxdWFsaXplcnNxAH4ACy+hx3d0AAdwZW5kaW5nc3EAfgAL3j+km3QABmlnbm9yZXNxAH4ACxZ6f7R0AAttYWNyb0Fzc2VydHNxAH4ACw4Ca3p0AA5UaW1lVXNhZ2VTdWl0ZXNxAH4AC5Y/NcB0AAJlcXNxAH4AC98TvMR0ABpjb252ZXJ0VG9DaGVja2luZ0VxdWFsaXplcnNxAH4AC6cErE50AAlOb0FyZ1Rlc3RzcQB+AAulHWE8dAACIyNzcQB+AAuHWwnLdAAIZmluYWxpemVzcQB+AAuTc6ZZdAAbY29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALWEbzRnQACGhhc2hDb2Rlc3EAfgALhb2bbnQAB3N1aXRlSWRzcQB+AAs85Ik9dAAJc3VpdGVOYW1lc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A63hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2V0ABBMeHNidGkvYXBpL1R5cGU7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQABXZhbHVldAAoY2xhc3NPZltvcmcuc2NhbGF0ZXN0Lmp1bml0LkpVbml0UnVubmVyXXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdSdW5XaXRoc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEEc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+ARB0AAVqdW5pdHNxAH4BEHQABnJ1bm5lcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgERc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAYdGltZXVzYWdlLlRpbWVVc2FnZVN1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgEEc3EAfgEnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AOtMAAlpbmhlcml0ZWRxAH4A60wAB3BhcmVudHNxAH4A63hxAH4BBXNxAH4BJ3VxAH4A5gAAAABzcQB+ASd1cQB+AOYAAAAAc3EAfgEndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAABFzcQB+AQJ0ABFCZWZvcmVBbmRBZnRlckFsbHNxAH4BCHNxAH4BC3VxAH4BDgAAAANzcQB+ARB0AANvcmdzcQB+ARB0AAlzY2FsYXRlc3RxAH4BGXNxAH4BAnQAClN1aXRlTWl4aW5xAH4BOHNxAH4BAnQACEZ1blN1aXRlcQB+AThzcQB+AQJ0AAxGdW5TdWl0ZUxpa2VxAH4BOHNxAH4BAnQAC0RvY3VtZW50aW5ncQB+AThzcQB+AQJ0AAhBbGVydGluZ3EAfgE4c3EAfgECdAAJTm90aWZ5aW5ncQB+AThzcQB+AQJ0AAlJbmZvcm1pbmdxAH4BOHNxAH4BAnQAEFRlc3RSZWdpc3RyYXRpb25xAH4BOHNxAH4BAnQABVN1aXRlcQB+AThzcQB+AQJ0AAxTZXJpYWxpemFibGVzcQB+AQhzcQB+AQt1cQB+AQ4AAAADc3EAfgEQdAAEamF2YXNxAH4BEHQAAmlvcQB+ARlzcQB+AQJ0AA1BYnN0cmFjdFN1aXRlcQB+AThzcQB+AQJ0AApBc3NlcnRpb25zcQB+AThzcQB+AQJ0AAxUcmlwbGVFcXVhbHNzcQB+AQhzcQB+AQt1cQB+AQ4AAAADc3EAfgEQdAADb3Jnc3EAfgEQdAAJc2NhbGFjdGljcQB+ARlzcQB+AQJ0ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+AWBzcQB+AQJ0AAZPYmplY3RzcQB+AQhzcQB+AQt1cQB+AQ4AAAADc3EAfgEQcQB+AVdzcQB+ARB0AARsYW5ncQB+ARlzcQB+AQJ0AANBbnlzcQB+AQhzcQB+AQt1cQB+AQ4AAAACc3EAfgEQdAAFc2NhbGFxAH4BGXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRa+gSp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABcL1VzZXJzL2VhdmFyL1NwYXJrU3RyZWFtaW5nQ291cnNlL1NjYWxhU3BhcmtCaWdEYXRhL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTawosbJRnrYtvu80iFudiGeBFRjw==
+external apis:
+2 items
+timeusage.TimeUsage$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6dXyrgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA3c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKZR39HQABm5vdGlmeXNxAH4ADCVVLqd0AARyZWFkc3EAfgAMjoGnonQAB3dvcmtpbmdzcQB+AAwevaWgdAAEd2FpdHNxAH4ADLOh6N90AA5jb3B5JGRlZmF1bHQkMnNxAH4ADGCE0Et0AA0kYXNJbnN0YW5jZU9mc3EAfgAM28hZ6HQAFXRpbWVVc2FnZUdyb3VwZWRUeXBlZHNxAH4ADAfq4zB0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADDoT63d0AAxUaW1lVXNhZ2VSb3dzcQB+AAzjzwvKdAAMcHJvZHVjdEFyaXR5c3EAfgAMpRm+7XQABmVxdWFsc3NxAH4ADGR2NPh0AAlUaW1lVXNhZ2VzcQB+AAzPBWKMdAAMYXNJbnN0YW5jZU9mc3EAfgAMyM78oHQAE3RpbWVVc2FnZUdyb3VwZWRTcWxzcQB+AAxltjLVdAAMc3luY2hyb25pemVkc3EAfgAMVtYRzHQADSRpc0luc3RhbmNlT2ZzcQB+AAwg9rr+dAAGZnNQYXRoc3EAfgAMHdl//HQACGNhbkVxdWFsc3EAfgAMA8Gl03QAEHRpbWVVc2FnZVN1bW1hcnlzcQB+AAw36CFYdAADcm93c3EAfgAMkMtr/HQAEWNsYXNzaWZpZWRDb2x1bW5zc3EAfgAMkAbMBnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6NRtAHQABG1haW5zcQB+AAyn0FbudAANcHJvZHVjdFByZWZpeHNxAH4ADDngaN50AANhZ2VzcQB+AAz7pbPGdAAEd29ya3NxAH4ADBWEmu50AAlub3RpZnlBbGxzcQB+AAz0JYxNdAAVdGltZVVzYWdlQnlMaWZlUGVyaW9kc3EAfgAMMzEVUXQAEHRpbWVVc2FnZUdyb3VwZWRzcQB+AAx9it7tdAADc2V4c3EAfgAMqyl+rXQADGlzSW5zdGFuY2VPZnNxAH4ADO4ca9R0AAY8aW5pdD5zcQB+AAyA/0NfdAAFc3BhcmtzcQB+AAzlnyuUdAACPT1zcQB+AAw65YLadAAFY2xvbmVzcQB+AAxYJbpddAAYdGltZVVzYWdlR3JvdXBlZFNxbFF1ZXJ5c3EAfgAMcCV92nQACGRmU2NoZW1hc3EAfgAMmrx/lXQABiRpbml0JHNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJ1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AhUwACWluaGVyaXRlZHEAfgCFTAAHcGFyZW50c3EAfgCFeHEAfgCic3EAfgCddXEAfgCAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCGcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgA7dXEAfgCVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC9dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AqnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AmHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AsVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoXNxAH4AsHQABUFycmF5cQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AsHQABlN0cmluZ3NxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALx0AARqYXZhc3EAfgC8dAAEbGFuZ3EAfgDBc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2c3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHQAFnRpbWV1c2FnZS5UaW1lVXNhZ2VSb3d1cQB+AJUAAAAAfnEAfgCXdAAIQ2xhc3NEZWZ1cQB+AJsAAAAAc3EAfgCdcQB+AKNzcQB+AJ1zcQB+AKVzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAZzcQB+ALB0AAxTZXJpYWxpemFibGVzcQB+ALRzcQB+ALd1cQB+ALoAAAACc3EAfgC8cQB+AL9xAH4AwXNxAH4AsHEAfgD6c3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8dAACaW9xAH4AwXNxAH4AsHQAB1Byb2R1Y3RxAH4A+3NxAH4AsHQABkVxdWFsc3EAfgD7c3EAfgCwcQB+AOVzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8cQB+AN1zcQB+ALxxAH4A33EAfgDBc3EAfgCwcQB+AOdxAH4A+3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRa+d2p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABXL1VzZXJzL2VhdmFyL1NwYXJrU3RyZWFtaW5nQ291cnNlL1NjYWxhU3BhcmtCaWdEYXRhL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzOorhhQmeZCs4a2Dzjo+Ad5EIjM=
+timeusage.TimeUsageRow -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6dXyrgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA3c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKZR39HQABm5vdGlmeXNxAH4ADCVVLqd0AARyZWFkc3EAfgAMjoGnonQAB3dvcmtpbmdzcQB+AAwevaWgdAAEd2FpdHNxAH4ADLOh6N90AA5jb3B5JGRlZmF1bHQkMnNxAH4ADGCE0Et0AA0kYXNJbnN0YW5jZU9mc3EAfgAM28hZ6HQAFXRpbWVVc2FnZUdyb3VwZWRUeXBlZHNxAH4ADAfq4zB0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADDoT63d0AAxUaW1lVXNhZ2VSb3dzcQB+AAzjzwvKdAAMcHJvZHVjdEFyaXR5c3EAfgAMpRm+7XQABmVxdWFsc3NxAH4ADGR2NPh0AAlUaW1lVXNhZ2VzcQB+AAzPBWKMdAAMYXNJbnN0YW5jZU9mc3EAfgAMyM78oHQAE3RpbWVVc2FnZUdyb3VwZWRTcWxzcQB+AAxltjLVdAAMc3luY2hyb25pemVkc3EAfgAMVtYRzHQADSRpc0luc3RhbmNlT2ZzcQB+AAwg9rr+dAAGZnNQYXRoc3EAfgAMHdl//HQACGNhbkVxdWFsc3EAfgAMA8Gl03QAEHRpbWVVc2FnZVN1bW1hcnlzcQB+AAw36CFYdAADcm93c3EAfgAMkMtr/HQAEWNsYXNzaWZpZWRDb2x1bW5zc3EAfgAMkAbMBnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6NRtAHQABG1haW5zcQB+AAyn0FbudAANcHJvZHVjdFByZWZpeHNxAH4ADDngaN50AANhZ2VzcQB+AAz7pbPGdAAEd29ya3NxAH4ADBWEmu50AAlub3RpZnlBbGxzcQB+AAz0JYxNdAAVdGltZVVzYWdlQnlMaWZlUGVyaW9kc3EAfgAMMzEVUXQAEHRpbWVVc2FnZUdyb3VwZWRzcQB+AAx9it7tdAADc2V4c3EAfgAMqyl+rXQADGlzSW5zdGFuY2VPZnNxAH4ADO4ca9R0AAY8aW5pdD5zcQB+AAyA/0NfdAAFc3BhcmtzcQB+AAzlnyuUdAACPT1zcQB+AAw65YLadAAFY2xvbmVzcQB+AAxYJbpddAAYdGltZVVzYWdlR3JvdXBlZFNxbFF1ZXJ5c3EAfgAMcCV92nQACGRmU2NoZW1hc3EAfgAMmrx/lXQABiRpbml0JHNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJ1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AhUwACWluaGVyaXRlZHEAfgCFTAAHcGFyZW50c3EAfgCFeHEAfgCic3EAfgCddXEAfgCAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCGcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgA7dXEAfgCVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC9dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AqnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AmHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AsVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoXNxAH4AsHQABUFycmF5cQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AsHQABlN0cmluZ3NxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALx0AARqYXZhc3EAfgC8dAAEbGFuZ3EAfgDBc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2c3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHQAFnRpbWV1c2FnZS5UaW1lVXNhZ2VSb3d1cQB+AJUAAAAAfnEAfgCXdAAIQ2xhc3NEZWZ1cQB+AJsAAAAAc3EAfgCdcQB+AKNzcQB+AJ1zcQB+AKVzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAZzcQB+ALB0AAxTZXJpYWxpemFibGVzcQB+ALRzcQB+ALd1cQB+ALoAAAACc3EAfgC8cQB+AL9xAH4AwXNxAH4AsHEAfgD6c3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8dAACaW9xAH4AwXNxAH4AsHQAB1Byb2R1Y3RxAH4A+3NxAH4AsHQABkVxdWFsc3EAfgD7c3EAfgCwcQB+AOVzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8cQB+AN1zcQB+ALxxAH4A33EAfgDBc3EAfgCwcQB+AOdxAH4A+3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRa+d2p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABXL1VzZXJzL2VhdmFyL1NwYXJrU3RyZWFtaW5nQ291cnNlL1NjYWxhU3BhcmtCaWdEYXRhL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzOorhhQmeZCs4a2Dzjo+Ad5EIjM=
+source infos:
+1 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMiyVAN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9lYXZhci9TcGFya1N0cmVhbWluZ0NvdXJzZS9TY2FsYVNwYXJrQmlnRGF0YS90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRaLri91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9lYXZhci9TcGFya1N0cmVhbWluZ0NvdXJzZS9TY2FsYVNwYXJrQmlnRGF0YS90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRa+gSp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9lYXZhci9TcGFya1N0cmVhbWluZ0NvdXJzZS9TY2FsYVNwYXJrQmlnRGF0YS90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABLw==

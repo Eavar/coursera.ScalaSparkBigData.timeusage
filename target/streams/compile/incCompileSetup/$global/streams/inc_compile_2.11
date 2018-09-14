@@ -1,0 +1,423 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$5.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$6.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageSummaryTyped$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class
+binary dependencies:
+6 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/eavar/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$5
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$6
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$classifiedColumns$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageSummaryTyped$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+268 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m$untyped
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $u
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> &&
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> *
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> +
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ::
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <=
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <init>
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <repeated>
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ==
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ===
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> >=
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ?0
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> A
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> A1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AbstractFunction6
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Any
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AnyRef
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Array
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ArrayOps
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> B
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Boolean
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Builder
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> CanBuildFrom
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Class
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassLoader
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassSymbol
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassTag
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Col
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Coll
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Column
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ColumnName
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataFrame
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Dataset
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Double
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DoubleType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Encoder
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Function1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Function2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IN
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IndexOutOfBoundsException
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Int
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Internal
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Iterator
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> JavaUniverse
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> K
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> KeyValueGroupedDataset
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> List
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Long
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> MatchError
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Metadata
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Mirror
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ModuleSymbol
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nil
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> None
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nothing
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Object
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Path
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Paths
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Predef
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Product
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RDD
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ReificationSupportApi
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RelationalGroupedDataset
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RichDouble
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Row
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ScalaRunTime
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Seq
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Serializable
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SingleType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Singleton
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Some
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkContext
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkSession
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Statics
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> String
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringContext
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringOps
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringToColumn
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructField
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Symbol
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T0
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T4
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T5
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T6
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> That
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ThisType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsage
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsageRow
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple4
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple6
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Type
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeCreator
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeRef
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeSymbol
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeTag
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypedColumn
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> URI
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> URL
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Unit
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Universe
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _$7
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _1
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _2
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _3
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _4
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _toString
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> age
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ageProjection
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> agg
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> anyHash
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apache
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> appName
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apply
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> as
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asInstanceOf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asModule
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> augmentString
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> avg
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> builder
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> canBuildFrom
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> classifiedColumns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> collection
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> column
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columnNames
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> config
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createDataFrame
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createOrReplaceTempView
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> data
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dataFrame
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> df
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dfSchema
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleHash
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleWrapper
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> drop
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> eq
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> expressions
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> file
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalDf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalizeHash
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> first
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> foreach
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fromSeq
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fsPath
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> functions
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> get
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getAs
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClass
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClassLoader
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrCreate
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getResource
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupBy
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupByKey
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> head
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headL
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headerColumns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> i
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> immutable
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> implicits
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> initDf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> internal
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isInstanceOf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> it
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> java
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> k
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> line
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> map
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapPartitionsWithIndex
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeClassTag
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeTypeTag
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mix
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> moduleClass
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ne
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> newProductEncoder
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> nio
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> orderBy
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> org
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> other
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherColumns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherProjection
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherwise
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> package
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeeds
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsColumns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsProjection
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primary_needs
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> rdd
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> read
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reduce
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> refArrayOps
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reflect
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reificationSupport
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> res
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> resource
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> row
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtime
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtimeMirror
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> s
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scala
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scalalang
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> schema
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> select
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> selectType
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sex
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sexProjection
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> show
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> spark
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sparkContext
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> split
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sql
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> startsWith
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticClass
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticModule
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticPackage
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summaryDf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summed
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tail
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tailL
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> textFile
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageByLifePeriod
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGrouped
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedSqlQuery
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummary
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummaryDf
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> to
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toDouble
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toString
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toTypeConstructor
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toURI
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typed
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typedProductIterator
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> types
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> unchecked
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> universe
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> viewName
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> when
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> where
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> work
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workColumns
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workProjection
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> working
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingStatusProjection
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ||
+product stamps:
+22 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$5.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$6.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageSummaryTyped$1.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class -> lastModified(1533684908000)
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class -> lastModified(1533684908000)
+source stamps:
+1 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> hash(ccea2b8614267990ace1ad83ce3a3e01de442233)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/Users/eavar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/Users/eavar/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar -> lastModified(1509673056000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.StructField
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.RDD
+/Users/eavar/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.Dataset
+/Users/eavar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar -> scala.Product
+/Users/eavar/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6dXyrgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA3c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKZR39HQABm5vdGlmeXNxAH4ADCVVLqd0AARyZWFkc3EAfgAMjoGnonQAB3dvcmtpbmdzcQB+AAwevaWgdAAEd2FpdHNxAH4ADLOh6N90AA5jb3B5JGRlZmF1bHQkMnNxAH4ADGCE0Et0AA0kYXNJbnN0YW5jZU9mc3EAfgAM28hZ6HQAFXRpbWVVc2FnZUdyb3VwZWRUeXBlZHNxAH4ADAfq4zB0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADDoT63d0AAxUaW1lVXNhZ2VSb3dzcQB+AAzjzwvKdAAMcHJvZHVjdEFyaXR5c3EAfgAMpRm+7XQABmVxdWFsc3NxAH4ADGR2NPh0AAlUaW1lVXNhZ2VzcQB+AAzPBWKMdAAMYXNJbnN0YW5jZU9mc3EAfgAMyM78oHQAE3RpbWVVc2FnZUdyb3VwZWRTcWxzcQB+AAxltjLVdAAMc3luY2hyb25pemVkc3EAfgAMVtYRzHQADSRpc0luc3RhbmNlT2ZzcQB+AAwg9rr+dAAGZnNQYXRoc3EAfgAMHdl//HQACGNhbkVxdWFsc3EAfgAMA8Gl03QAEHRpbWVVc2FnZVN1bW1hcnlzcQB+AAw36CFYdAADcm93c3EAfgAMkMtr/HQAEWNsYXNzaWZpZWRDb2x1bW5zc3EAfgAMkAbMBnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6NRtAHQABG1haW5zcQB+AAyn0FbudAANcHJvZHVjdFByZWZpeHNxAH4ADDngaN50AANhZ2VzcQB+AAz7pbPGdAAEd29ya3NxAH4ADBWEmu50AAlub3RpZnlBbGxzcQB+AAz0JYxNdAAVdGltZVVzYWdlQnlMaWZlUGVyaW9kc3EAfgAMMzEVUXQAEHRpbWVVc2FnZUdyb3VwZWRzcQB+AAx9it7tdAADc2V4c3EAfgAMqyl+rXQADGlzSW5zdGFuY2VPZnNxAH4ADO4ca9R0AAY8aW5pdD5zcQB+AAyA/0NfdAAFc3BhcmtzcQB+AAzlnyuUdAACPT1zcQB+AAw65YLadAAFY2xvbmVzcQB+AAxYJbpddAAYdGltZVVzYWdlR3JvdXBlZFNxbFF1ZXJ5c3EAfgAMcCV92nQACGRmU2NoZW1hc3EAfgAMmrx/lXQABiRpbml0JHNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJ1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AhUwACWluaGVyaXRlZHEAfgCFTAAHcGFyZW50c3EAfgCFeHEAfgCic3EAfgCddXEAfgCAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCGcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgA7dXEAfgCVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC9dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AqnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AmHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AsVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoXNxAH4AsHQABUFycmF5cQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AsHQABlN0cmluZ3NxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALx0AARqYXZhc3EAfgC8dAAEbGFuZ3EAfgDBc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2c3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHQAFnRpbWV1c2FnZS5UaW1lVXNhZ2VSb3d1cQB+AJUAAAAAfnEAfgCXdAAIQ2xhc3NEZWZ1cQB+AJsAAAAAc3EAfgCdcQB+AKNzcQB+AJ1zcQB+AKVzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAZzcQB+ALB0AAxTZXJpYWxpemFibGVzcQB+ALRzcQB+ALd1cQB+ALoAAAACc3EAfgC8cQB+AL9xAH4AwXNxAH4AsHEAfgD6c3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8dAACaW9xAH4AwXNxAH4AsHQAB1Byb2R1Y3RxAH4A+3NxAH4AsHQABkVxdWFsc3EAfgD7c3EAfgCwcQB+AOVzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8cQB+AN1zcQB+ALxxAH4A33EAfgDBc3EAfgCwcQB+AOdxAH4A+3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRa+d2p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABXL1VzZXJzL2VhdmFyL1NwYXJrU3RyZWFtaW5nQ291cnNlL1NjYWxhU3BhcmtCaWdEYXRhL3RpbWV1c2FnZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzOorhhQmeZCs4a2Dzjo+Ad5EIjM=
+external apis:
+0 items
+source infos:
+1 items
+/Users/eavar/SparkStreamingCourse/ScalaSparkBigData/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMiyNA51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9lYXZhci9TcGFya1N0cmVhbWluZ0NvdXJzZS9TY2FsYVNwYXJrQmlnRGF0YS90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZMjDjY51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9lYXZhci9TcGFya1N0cmVhbWluZ0NvdXJzZS9TY2FsYVNwYXJrQmlnRGF0YS90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRaItDd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9lYXZhci9TcGFya1N0cmVhbWluZ0NvdXJzZS9TY2FsYVNwYXJrQmlnRGF0YS90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRaYvyV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9lYXZhci9TcGFya1N0cmVhbWluZ0NvdXJzZS9TY2FsYVNwYXJrQmlnRGF0YS90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRa+d2p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9lYXZhci9TcGFya1N0cmVhbWluZ0NvdXJzZS9TY2FsYVNwYXJrQmlnRGF0YS90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
